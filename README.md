@@ -4,14 +4,17 @@ Welcome to my GitHub profile! I'm a passionate developer and crypto enthusiast w
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, TypeScript, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express, PHP, Laravel, Web3
-- **Database:** MySQL
-- **Other Tools:** Git
+- **Frontend**: React, TypeScript, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Express, PHP, Laravel, Golang, Python, Web3
+- **Database**: MySQL
+- **Systems & Tools**: Docker, WMI, Git, Bash, Linux
+- **Other**: Web scraping, API integrations, system automation
 
 ## 🧑‍💼 Experience
 
-With over 5 years of experience in full-stack development, I've worked on a variety of projects ranging from small startups to larger corporate applications. My expertise lies in building scalable web applications and delivering high-quality code.
+With over 5 years of experience in full-stack development and systems programming, I've worked on a variety of projects ranging from small startups to corporate applications. My expertise spans building scalable web applications and developing tools for system automation and data collection.
+
+I specialize in both application development and system-level programming, combining a solid understanding of software engineering with low-level system knowledge. And I like tea more than coffee. 
 
 ## 🚀 Projects
 
@@ -50,7 +53,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 - 📧 [Email](mailto:grouchyseeker@gmail.com)
 - 💼 Discord: seekehr
 
-**Preferably contact me on Discord please. I only accept Crypto as payment**
+**Preferably contact me on Discord please. I only accept Crypto/international bank wire as payment**
 ---
 
 Thank you for visiting my profile!
