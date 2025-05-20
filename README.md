@@ -5,7 +5,8 @@ Welcome to my GitHub profile! I'm a passionate developer and crypto enthusiast w
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, TypeScript, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express, PHP, Laravel, Golang, Python, Web3
+- **Backend/System software languages**: PHP, TypeScript, Golang, C++ (and a bit of Python :D)
+- **Backend Frameworks:** Laravel, Express, NestJS, CakePHP, grammy for Telegram bots and PocketMine-MP plugins development too
 - **Database**: MySQL
 - **Systems & Tools**: Docker, WMI, Git, Bash, Linux
 - **Other**: Web scraping, API integrations, system automation
