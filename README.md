@@ -28,19 +28,24 @@ A 7500+ LOC project written in Golang (injector) and C++ (dll) that allows you t
 
 ### 🛍️ ZeqaStores
 A sleek e-commerce platform developed for the Zeqa Network, facilitating the purchase of in-game ranks, cosmetics, and other utilities. Built with the MERN stack, this project highlights my skills in integrating payment systems and managing digital storefronts.
+
 🔗 [ZeqaStores Demo](https://youtu.be/SAvNmzm9Q64?si=YlYbZTYCVNIMiwgd)
 
 ### 🧾 LoanTracker
 An open-source loan tracking website inspired by the traditional "khata" system prevalent in many Pakistani shops. Aimed to digitize and streamline the process for shop owners and individuals alike.
+
 🔗 [GitHub Repository](https://github.com/seekehr/LoanTracker)
 
 ### 📝 NotesX
 A note-taking application designed for simplicity and efficiency. This project was developed as a school project for a client, completed within a tight two-week deadline.
+
 🔗 [GitHub Repository](https://github.com/seekehr/NotesX)
 
 ### 🐦 NotTwitter
 A retro-themed social media website inspired by Twitter. This project showcases my ability to build full-stack applications with a nostalgic touch.
+
 🔗 [Backend Repository](https://github.com/seekehr/NotTwitter)
+
 🔗 [Frontend Repository](https://github.com/seekehr/NotTwitterFront)
 
 ## 🤝 Clients
