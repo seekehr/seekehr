@@ -19,6 +19,12 @@ I specialize in both application development and system-level programming, combi
 
 ## 🚀 Projects
 
+### 💻DevSpoofGO
+A 7500+ LOC project written in Golang (injector) and C++ (dll) that allows you to inject programs with DLL, and return custom values when the program queries for system information; effectively a device spoofer. Supports native WinAPI, registry values (e.g Certificates) and WMI methods.
+
+🔗 [DevSpoofGO](https://github.com/seekehr/DevSpoofGO)
+🔗 [DevSpoofGOTest](https://github.com/seekehr/DevSpoofGOTest)
+
 ### 🛍️ ZeqaStores
 A sleek e-commerce platform developed for the Zeqa Network, facilitating the purchase of in-game ranks, cosmetics, and other utilities. Built with the MERN stack, this project highlights my skills in integrating payment systems and managing digital storefronts.
 🔗 [ZeqaStores Demo](https://youtu.be/SAvNmzm9Q64?si=YlYbZTYCVNIMiwgd)
