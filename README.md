@@ -20,7 +20,7 @@ I specialize in both application development and system-level programming, combi
 ## 🚀 Projects
 [View my project here](https://seekehr.github.io/projects.html)
 
-## 📝Blog
+## 📝 Blog
 [View my blogpage here](https://seekehr.github.io/blog/)
 
 ## 🤝 Clients
