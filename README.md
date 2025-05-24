@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Seeker
 
-Welcome to my GitHub profile! I'm a passionate developer and crypto enthusiast who enjoys building innovative and user-friendly applications. With a focus on full-stack development, I strive to create solutions that make a difference.
+Welcome to my GitHub profile! I'm a passionate developer and crypto enthusiast who enjoys building innovative and user-friendly applications. With a focus on full-stack and systems development, I strive to create solutions that make a difference. Also, I like cats.
 
 ## 🛠️ Tech Stack
 
