@@ -31,6 +31,13 @@ A sleek e-commerce platform developed for the Zeqa Network, facilitating the pur
 
 🔗 [ZeqaStores Demo](https://youtu.be/SAvNmzm9Q64?si=YlYbZTYCVNIMiwgd)
 
+### 🐦 NotTwitter
+A retro-themed social media website inspired by Twitter. This project showcases my ability to build full-stack applications with a nostalgic touch.
+
+🔗 [Backend Repository](https://github.com/seekehr/NotTwitter)
+
+🔗 [Frontend Repository](https://github.com/seekehr/NotTwitterFront)
+
 ### 🧾 LoanTracker
 An open-source loan tracking website inspired by the traditional "khata" system prevalent in many Pakistani shops. Aimed to digitize and streamline the process for shop owners and individuals alike.
 
@@ -41,13 +48,10 @@ A note-taking application designed for simplicity and efficiency. This project w
 
 🔗 [GitHub Repository](https://github.com/seekehr/NotesX)
 
-### 🐦 NotTwitter
-A retro-themed social media website inspired by Twitter. This project showcases my ability to build full-stack applications with a nostalgic touch.
+### 🤖RedditVideoMakerBot (Updated)
+Added support to generate a video from the comment section, fixed many bugs and also added customisability to slow down text generated per second to match the AI's speed + more.
 
-🔗 [Backend Repository](https://github.com/seekehr/NotTwitter)
-
-🔗 [Frontend Repository](https://github.com/seekehr/NotTwitterFront)
-
+🔗 [RedditVideoMakerBot-Updated](https://github.com/seekehr/RedditVideoMakerBot-Updated)
 ## 🤝 Clients
 
 I've had the pleasure of working with diverse clients, delivering tailored solutions to meet their unique needs. Here's what some of them have to say:
