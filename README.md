@@ -18,40 +18,11 @@ With over 5 years of experience in full-stack development and systems programmin
 I specialize in both application development and system-level programming, combining a solid understanding of software engineering with low-level system knowledge. And I like tea more than coffee. 
 
 ## 🚀 Projects
+[View my project here](https://seekehr.github.io/projects.html)
 
-### 💻DevSpoofGO
-A 7500+ LOC project written in Golang (injector) and C++ (dll) that allows you to inject programs with DLL, and return custom values when the program queries for system information; effectively a device spoofer. Supports native WinAPI, registry values (e.g Certificates) and WMI methods.
+## 📝Blog
+[View my blogpage here](https://seekehr.github.io/blog/)
 
-🔗 [DevSpoofGO](https://github.com/seekehr/DevSpoofGO)
-
-🔗 [DevSpoofGOTest](https://github.com/seekehr/DevSpoofGOTest)
-
-### 🛍️ ZeqaStores
-A sleek e-commerce platform developed for the Zeqa Network, facilitating the purchase of in-game ranks, cosmetics, and other utilities. Built with the MERN stack, this project highlights my skills in integrating payment systems and managing digital storefronts.
-
-🔗 [ZeqaStores Demo](https://youtu.be/SAvNmzm9Q64?si=YlYbZTYCVNIMiwgd)
-
-### 🐦 NotTwitter
-A retro-themed social media website inspired by Twitter. This project showcases my ability to build full-stack applications with a nostalgic touch.
-
-🔗 [Backend Repository](https://github.com/seekehr/NotTwitter)
-
-🔗 [Frontend Repository](https://github.com/seekehr/NotTwitterFront)
-
-### 🧾 LoanTracker
-An open-source loan tracking website inspired by the traditional "khata" system prevalent in many Pakistani shops. Aimed to digitize and streamline the process for shop owners and individuals alike.
-
-🔗 [GitHub Repository](https://github.com/seekehr/LoanTracker)
-
-### 📝 NotesX
-A note-taking application designed for simplicity and efficiency. This project was developed as a school project for a client, completed within a tight two-week deadline.
-
-🔗 [GitHub Repository](https://github.com/seekehr/NotesX)
-
-### 🤖RedditVideoMakerBot (Updated)
-Added support to generate a video from the comment section, fixed many bugs and also added customisability to slow down text generated per second to match the AI's speed + more.
-
-🔗 [RedditVideoMakerBot-Updated](https://github.com/seekehr/RedditVideoMakerBot-Updated)
 ## 🤝 Clients
 
 I've had the pleasure of working with diverse clients, delivering tailored solutions to meet their unique needs. Here's what some of them have to say:
