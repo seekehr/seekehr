@@ -33,6 +33,11 @@ I've had the pleasure of working with diverse clients, delivering tailored solut
 
 Explore more client testimonials and projects on my [portfolio website](https://seekehr.github.io/clients.html).
 
+## ✒️Figma Designs
+- Landing Page (Mobile App): [Preview](https://www.figma.com/proto/Mih7sESc03b9LBBWv188CK/Twine2?node-id=0-1&p=f&t=l9POzcwIExQl1u9l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+- Landing Page (Desktop App): [Preview](https://www.figma.com/proto/fUHcuIs93ewhPB7tq9Y2GG/httpwire?node-id=49-4&p=f&t=T3nOdip0JqeEMQgR-0&scaling=contain&content-scaling=fixed&page-id=49%3A2)
+- Sign-up Page (Desktop App): [Preview](https://www.figma.com/proto/fUHcuIs93ewhPB7tq9Y2GG/httpwire?node-id=0-1&p=f&t=T3nOdip0JqeEMQgR-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)
+  
 ## 📫 Let's Connect
 
 I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to work together or just have a chat!
