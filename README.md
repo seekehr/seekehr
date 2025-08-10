@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Seeker
 
-Welcome to my GitHub profile! I'm a passionate developer and crypto enthusiast who enjoys building innovative and user-friendly applications. With a focus on full-stack and systems development, I strive to create solutions that make a difference. Also, I like cats.
+Not seeking anything in particular, that's just the name. And I'm a full-stack web developer. 
 
 ## 🛠️ Tech Stack
 
@@ -38,8 +38,3 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 - 🌐 [Portfolio Website](https://seekehr.github.io)
 - 📧 [Email](mailto:grouchyseeker@gmail.com)
 - 💼 Discord: seekehr
-
-**Preferably contact me on Discord please. I only accept Crypto/international bank wire as payment**
----
-
-Thank you for visiting my profile!
