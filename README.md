@@ -22,13 +22,9 @@ I've been working on passion projects since I was like 11, so it's been a while 
 
 ## 🤝 Clients
 
-I've had the pleasure of working with diverse clients, delivering tailored solutions to meet their unique needs. Here's what some of them have to say:
+A bunch !
 
-> "Seeker delivered our project ahead of schedule with exceptional quality. Highly recommended!"
-
-> "Professional, efficient, and creative. Seeker transformed our ideas into reality seamlessly."
-
-Explore more client testimonials and projects on my [portfolio website](https://seekehr.github.io/clients.html).
+Explore client testimonials at [Clients Page](https://seekehr.github.io/clients.html).
 
 ## ✒️Figma Designs
 - Landing Page (Mobile App): [Preview](https://www.figma.com/proto/Mih7sESc03b9LBBWv188CK/Twine2?node-id=0-1&p=f&t=l9POzcwIExQl1u9l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
