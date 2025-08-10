@@ -4,18 +4,15 @@ Welcome to my GitHub profile! I'm a passionate developer and crypto enthusiast w
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, TypeScript, Tailwind CSS, Bootstrap
-- **Backend/System software languages**: PHP, TypeScript, Golang, C++ (and a bit of Python :D)
-- **Backend Frameworks:** Laravel, Express, NestJS, CakePHP, grammy for Telegram bots and PocketMine-MP plugins development too
-- **Database**: MySQL
-- **Systems & Tools**: Docker, WMI, Git, Bash, Linux
-- **Other**: Web scraping, API integrations, system automation
+- **Frontend**: React, TypeScript, Tailwind CSS
+- **Backend/System software languages**: PHP, TypeScript, Golang, C++
+- **Backend Frameworks:** Laravel, Express, grammy for Telegram bots 
+- **Database**: MySQL, PostgreSQL
+- **Tools**: Docker, WMI, Git, Bash, Linux (Xubuntu/Arch)
 
 ## 🧑‍💼 Experience
 
-With over 5 years of experience in full-stack development and systems programming, I've worked on a variety of projects ranging from small startups to corporate applications. My expertise spans building scalable web applications and developing tools for system automation and data collection.
-
-I specialize in both application development and system-level programming, combining a solid understanding of software engineering with low-level system knowledge. And I like tea more than coffee. 
+I've been working on passion projects since I was like 11, so it's been a while for sure. I wouldn't count that time period as 'experience' necessarily though, as it's not something I'd like to be shown on my portfolio. As such, I began taking coding very seriously from 2023 onwards, as a potential means of livelihood and as a passion of mine (I may be masochistic xD), and have worked on multiple projects applicable to the real world these past 2 or so years, and have worked with several companies (including LunarProxy and twine2, a dating app startup) to work on my experience and professionalism. In summary, I got you. 
 
 ## 🚀 Projects
 [View my project here](https://seekehr.github.io/projects.html)
