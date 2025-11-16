@@ -1,39 +1,6 @@
-# 👋 Hello! I'm Seeker
+Hey, I build web tools and bots in Go, mostly for crypto projects. 
 
-Not seeking anything in particular, that's just the name. And I'm a full-stack web developer. 
-
-## 🛠️ Tech Stack
-
-- **Frontend**: React, TypeScript, Tailwind CSS
-- **Backend/System software languages**: PHP, TypeScript, Golang, C++
-- **Backend Frameworks:** Laravel, Express, grammy for Telegram bots 
-- **Database**: MySQL, PostgreSQL
-- **Tools**: Docker, WMI, Git, Bash, Linux (Xubuntu/Arch)
-
-## 🧑‍💼 Experience
-
-I've been working on passion projects since I was like 11, so it's been a while for sure. I wouldn't count that time period as 'experience' necessarily though, as it's not something I'd like to be shown on my portfolio. As such, I began taking coding very seriously from 2023 onwards, as a potential means of livelihood and as a passion of mine (I may be masochistic xD), and have worked on multiple projects applicable to the real world these past 2 or so years, and have worked with several companies (including LunarProxy and twine2, a dating app startup) to work on my experience and professionalism. In summary, I got you. 
-
-## 🚀 Projects
-[View my project here](https://seekehr.github.io/projects.html)
-
-## 📝 Blog
-[View my blogpage here](https://seekehr.github.io/blog/)
-
-## 🤝 Clients
-
-A bunch !
-
-Explore client testimonials at [Clients Page](https://seekehr.github.io/clients.html).
-
-## ✒️Figma Designs
-- Landing Page (Mobile App): [Preview](https://www.figma.com/proto/Mih7sESc03b9LBBWv188CK/Twine2?node-id=0-1&p=f&t=l9POzcwIExQl1u9l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
-- Landing Page (Desktop App): [Preview](https://www.figma.com/proto/fUHcuIs93ewhPB7tq9Y2GG/httpwire?node-id=49-4&p=f&t=T3nOdip0JqeEMQgR-0&scaling=contain&content-scaling=fixed&page-id=49%3A2)
-- Sign-up Page (Desktop App): [Preview](https://www.figma.com/proto/fUHcuIs93ewhPB7tq9Y2GG/httpwire?node-id=0-1&p=f&t=T3nOdip0JqeEMQgR-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)
-  
-## 📫 Let's Connect
-
-I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to work together or just have a chat!
+If you ever need something automated or want help boosting a memecoin or community, I’m down to help.
 
 - 🌐 [Portfolio Website](https://seekehr.github.io)
 - 📧 [Email](mailto:grouchyseeker@gmail.com)
