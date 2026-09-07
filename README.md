@@ -70,7 +70,7 @@ AI-powered Upwork job scraper using RAG to find relevant opportunities.
 
 ---
 
-### [DevSpoofGO](https://github.com/seekehr/Reversio](https://github.com/seekehr/DevSpoofGO)
+### [DevSpoofGO](https://github.com/seekehr/DevSpoofGO)
 
 A project that injects your desired application with the spoofed credentials, made using C++ (dll) and GoLang (injector).
 
