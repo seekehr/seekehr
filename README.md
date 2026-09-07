@@ -2,7 +2,7 @@
 
 > I build AI-powered automations, integrations, and tools.
 
-I'm the founder of **[Get AI Made](https://www.getaimade.com/)** — 
+I'm the founder of **[Get AI Made](https://www.getaimade.com/)** - 
 an AI automation agency focused on building systems that automate
 repetitive business workflows.
 
