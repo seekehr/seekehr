@@ -2,19 +2,20 @@
 
 > I build AI-powered automations, integrations, and tools.
 
-I'm the founder of **[Get AI Made](https://www.getaimade.com/)** - 
-an AI automation agency focused on building systems that automate
-repetitive business workflows.
+I'm the founder of **[Get AI Made](https://www.getaimade.com/)** - building custom systems around data, research, and repetitive workflows.
 
-I build custom AI systems, chatbots, and automations that help businesses scale, engage, and convert more leads into loyal customers.
+I build web scrapers, AI-powered extraction pipelines, RAG systems, monitoring tools, lead intelligence platforms, and backend APIs that turn messy information into structured, usable data.
 
 ---
 
 ## 🧠 what i do
 
-- 🤖 AI automation & agents
-- 🔌 API integrations & workflow automation
-- 🧠 RAG / AI-powered search
+- 🌐 AI-powered web scraping & data collection
+- 🧩 Smart data extraction from websites, PDFs & documents
+- 🧠 RAG systems & AI-powered search
+- 📡 Research, monitoring & change-detection systems
+- 🎯 Lead & company intelligence
+- ⚙️ Custom data pipelines, APIs & backend automation
 
 ---
 
