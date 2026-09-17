@@ -39,6 +39,14 @@ AI-powered search engine for Shi'a ahadith using a RAG architecture.
 
 ---
 
+### [FindClients](https://github.com/seekehr/FindClients)
+
+Self-hosted lead discovery tool for freelancers that monitors Upwork for new jobs, searches X/Twitter for hiring posts, optionally screens leads with Gemini, and collects everything in one dashboard.
+
+**TypeScript · Playwright · Gemini · Next.js · Discord Webhooks**
+
+---
+
 ### [Reversio](https://github.com/seekehr/Reversio)
 
 An AI-powered reverse engineering platform built with Go and Ghidra that transforms Windows executables into searchable semantic knowledge.
@@ -47,11 +55,27 @@ An AI-powered reverse engineering platform built with Go and Ghidra that transfo
 
 ---
 
+### [Scrape Quizlet Flashcards](https://github.com/seekehr/Scrape-Quizlet-Flashcards)
+
+Backs up every public flashcard set in every public folder on a Quizlet profile using the rendered UI, validates extracted data with Zod, and exports each set to its own text file.
+
+**TypeScript · Playwright · Zod · Web Scraping**
+
+---
+
 ### [Polymarket Bot](https://github.com/seekehr/polymarket-bot)
 
 A high-performance, low-latency algorithmic trading bot for Polymarket that connects to real-time WebSocket feeds, analyzes market movements, and automatically executes trades based on configurable strategies.
 
 **AI · Golang · Bot**
+
+---
+
+### [CambridgePastPapersAI](https://github.com/seekehr/CambridgePastPapersAI)
+
+Turns Cambridge past paper PDFs into structured JSON, one record per question, while preserving layout information for accurate question segmentation and cleanup.
+
+**TypeScript · pdfjs-dist · Gemini · Zod · PDF Parsing**
 
 ---
 
