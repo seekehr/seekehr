@@ -54,35 +54,11 @@ A high-performance, low-latency algorithmic trading bot for Polymarket that conn
 
 ---
 
-### [XScrapper-AI](https://github.com/seekehr/XScrapper-AI)
-
-AI-powered X/Twitter scraping and lead generation.
-
-**Python · AI · Web Scraping · Lead Generation**
-
----
-
-### [UpworkJobScrapperAI](https://github.com/seekehr/UpworkJobScrapperAI)
-
-AI-powered Upwork job scraper using RAG to find relevant opportunities.
-
-**Python · RAG · AI · Web Scraping**
-
----
-
 ### [DevSpoofGO](https://github.com/seekehr/DevSpoofGO)
 
 A project that injects your desired application with the spoofed credentials, made using C++ (dll) and GoLang (injector).
 
 **Golang · C++ · WinAPI**
-
----
-
-### [ScheduleWith](https://github.com/seekehr/ScheduleWith)
-
-A streak-based iOS productivity app built with Expo.
-
-**TypeScript · React Native · Expo**
 
 ---
 
