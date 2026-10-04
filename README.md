@@ -55,6 +55,14 @@ An AI-powered reverse engineering platform built with Go and Ghidra that transfo
 
 ---
 
+### [HDISTW](https://github.com/seekehr/HDISTW)
+
+HowDoIScrapeThisWebsite is an AI-powered local web recon tool that analyzes how websites load and expose data. It captures browser network activity, detects REST, GraphQL, Next.js data, embedded state, authentication, pagination, and client-side rendering, then recommends the most efficient extraction strategy for scraping.
+
+**TypeScript · AI · Zod · Web Scraping**
+
+---
+
 ### [Scrape Quizlet Flashcards](https://github.com/seekehr/Scrape-Quizlet-Flashcards)
 
 Backs up every public flashcard set in every public folder on a Quizlet profile using the rendered UI, validates extracted data with Zod, and exports each set to its own text file.
