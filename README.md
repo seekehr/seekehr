@@ -6,6 +6,7 @@ I'm the founder of **[Get AI Made](https://www.getaimade.com/)** - building cust
 
 I build web scrapers, AI-powered extraction pipelines, RAG systems, monitoring tools, lead intelligence platforms, and backend APIs that turn messy information into structured, usable data.
 
+**(Portfolio)[https://seekehr.github.io/]**
 ---
 
 ## 🧠 what i do
