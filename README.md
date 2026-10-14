@@ -49,14 +49,6 @@ Self-hosted lead discovery tool for freelancers that monitors Upwork for new job
 
 ---
 
-### [SNtoGDSync](https://github.com/seekehr/SimpleNotes-to-GoogleDrive-Sync)
-
-Syncs Simplenote notes to Google Drive as Word documents.
-
-**Scraping · Google API · TypeScript**
-
----
-
 ### [Reversio](https://github.com/seekehr/Reversio)
 
 An AI-powered reverse engineering platform built with Go and Ghidra that transforms Windows executables into searchable semantic knowledge.
