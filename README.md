@@ -97,6 +97,14 @@ Turns Cambridge past paper PDFs into structured JSON, one record per question, w
 
 ---
 
+### [SimpleNotes to Google Drive Sync](https://github.com/seekehr/SimpleNotes-to-GoogleDrive-Sync)
+
+Automatically syncs Simplenote notes to Google Drive as formatted .docx files with Markdown support, incremental updates, and configurable error handling.
+
+**TypeScript · Google API · Zod · Web Scraping**
+
+---
+
 ### [DevSpoofGO](https://github.com/seekehr/DevSpoofGO)
 
 A project that injects your desired application with the spoofed credentials, made using C++ (dll) and GoLang (injector).
