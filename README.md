@@ -12,7 +12,7 @@ I build Telegram bots, Discord bots, web scrapers, AI-powered extraction pipelin
 
 ## 🧠 what i do
 
-- 🤖 Telegram, Discord & custom automation bots
+- 🤖 Telegram, Discord, Slack & custom automation bots
 - 🌐 AI-powered web scraping & data collection
 - 🧩 Smart data extraction from websites, PDFs & documents
 - 🧠 RAG systems & AI-powered search
@@ -24,19 +24,17 @@ I build Telegram bots, Discord bots, web scrapers, AI-powered extraction pipelin
 
 ## 🚀 featured projects
 
-### [Get AI Made](https://github.com/seekehr/GetAIMade)
+### [Polymarket Bot](https://github.com/seekehr/polymarket-bot)
 
-My AI automation agency for custom bots, AI agents, integrations, and automated workflows.
+A high-performance, low-latency algorithmic trading bot for Polymarket that connects to real-time WebSocket feeds, analyzes market movements, and automatically executes trades based on configurable strategies. Privately available Discord bot.
 
-**AI Automation · Bots · AI Agents · Integrations**
-
-→ **[getaimade.com](https://www.getaimade.com/)**
+**AI · Golang · Bot**
 
 ---
 
 ### [Shiabox](https://github.com/seekehr/shiabox)
 
-AI-powered search engine for Shi'a ahadith using a RAG architecture, built around a backend that can also power conversational bot interfaces and AI assistants.
+AI-powered search engine for Shi'a ahadith using a RAG architecture, built around a backend that can also power conversational bot interfaces and AI assistants. Privately available Discord bot.
 
 **TypeScript · RAG · Qdrant · Embeddings**
 
@@ -71,14 +69,6 @@ HowDoIScrapeThisWebsite is an AI-powered web recon bot that analyzes how website
 Automation bot that backs up every public flashcard set in every public folder on a Quizlet profile using the rendered UI, validates extracted data with Zod, and exports each set to its own text file.
 
 **TypeScript · Playwright · Zod · Web Scraping**
-
----
-
-### [Polymarket Bot](https://github.com/seekehr/polymarket-bot)
-
-A high-performance, low-latency algorithmic trading bot for Polymarket that connects to real-time WebSocket feeds, analyzes market movements, and automatically executes trades based on configurable strategies.
-
-**AI · Golang · Bot**
 
 ---
 
